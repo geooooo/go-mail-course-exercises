@@ -1,7 +1,7 @@
 .vscode
 lecs/
-*/readme.md
+*/*.md
 */mem.out
 */cpu.out
+*/cover.out
 */*.test
-xmlcov
