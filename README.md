@@ -1,3 +1,3 @@
-# Решения практических заданий по курсу Go
+# Practice for course GO
 
-> [Разработка веб-сервисов на Golang (Go)](https://stepik.org/course/187490)
+> [Development web services Golang (Go)](https://stepik.org/course/187490)
